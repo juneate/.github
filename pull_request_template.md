@@ -16,6 +16,6 @@
 **Test caption**
 
 <figure>
-![Rocco](https://user-images.githubusercontent.com/5200976/236698592-1833ffc4-e211-41de-878b-edc63ac5fa79.png)
+  <img src="https://user-images.githubusercontent.com/5200976/236698592-1833ffc4-e211-41de-878b-edc63ac5fa79.png" />
   <figcaption>Test caption</figcaption>
 </figure>
